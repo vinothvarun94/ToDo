@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frakton';
-  newVar="MAIN";
-  Sample="MAIN";
+  newVar="MAIN GOO CHNAGE";
+  Sample="MAIN GOOD CHANGES";
 }
