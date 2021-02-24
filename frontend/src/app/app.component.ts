@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frakton';
-  newVar="this is different from main";
+  newVar="DIFF MAIN";
+  Sample="DIFF MAIN";
 }
