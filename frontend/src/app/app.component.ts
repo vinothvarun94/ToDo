@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frakton';
-  newVar="Added JWT Feature";
+  newVar="I think it will cause conflict";
 }
