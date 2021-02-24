@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frakton';
-  newVar="I think it will cause conflict";
+  newVar="Main Content Changed";
 }
