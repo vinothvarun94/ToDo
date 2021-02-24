@@ -7,6 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frakton';
+<<<<<<< HEAD
   newVar="DIFF MAIN";
   Sample="DIFF MAIN";
+=======
+  newVar="Sample Change";
+  Sample="C:\Program Files\SourceGear\Common\DiffMerge"
+>>>>>>> main
 }
