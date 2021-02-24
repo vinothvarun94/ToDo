@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frakton';
-  completenew1="completenew SUB BRANCH";
+  completenew1="COMPLAETED KJHJKHJ";
   Sample="MAIN GOOD CHANGES";
 }
